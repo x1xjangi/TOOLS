@@ -1,2 +1,2 @@
 # TOOLS
-TOOLS: https://dsc.gg/subzer0
+TOOLS!: https://dsc.gg/subzer0
